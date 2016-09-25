@@ -1,0 +1,38 @@
+#title {
+  color: cornsilk;
+  background: blue;
+  position: absolute;
+  left: 215
+}
+
+#body {
+  background: black
+}
+
+#such {
+  color: cornsilk;
+  position: absolute;
+  left: 195;
+  bottom: 275;
+  border: 1px solid;
+  padding: 20px;
+}
+
+#radius {
+  color: cornsilk;
+  position: absolute;
+  left: 205;
+  bottom: 175;
+  border: 1px solid;
+  padding: 20px;
+  border-radius: 15px
+}
+
+#gradient {
+  color: cornsilk;
+  position: absolute;
+  left: 125;
+  bottom: 100;
+  background: linear-gradient(green,blue);
+  
+  
